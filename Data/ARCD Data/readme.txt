@@ -1,0 +1,1 @@
+The ARCD_Augmented.csv file contains the original ARCD data as well as an additional 2 columns: modified_question (GPT 3.5 Turbo), and modified_question. The later is a modified version of the original question which was automatically disambiguated using GPT 3.5 Turbo as described in the paper, while the former, is a manually revised version of this disambiguated question. 
